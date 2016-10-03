@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\bin\Debug\SEtoKSP.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\bin\Debug\SEtoKSP.exe
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\bin\Debug\SEtoKSP.pdb
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\obj\Debug\SEtoKSP.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\obj\Debug\SEtoKSP.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\obj\Debug\SEtoKSP.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\obj\Debug\SEtoKSP.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\obj\Debug\SEtoKSP.exe
+c:\users\alex\documents\visual studio 2015\Projects\SEtoKSP\SEtoKSP\obj\Debug\SEtoKSP.pdb
